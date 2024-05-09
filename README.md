@@ -49,7 +49,7 @@ O sistema de barbearia e salão de beleza inclui diversas funcionalidades para c
 - Banco de dados: Mysql
 
 # Como Acessar o Website
-- https://newbarber.wrlsystems.com.br/index
+- https://newbarber.wrlsystems.com.br/
 
 # Autor
 
